@@ -1,7 +1,7 @@
 # projeto-apeperia
 ## Made by @jovemcarlosti
 
-Projeto realizado em curso prática de Layouts Responsivos: trabalhando com layouts mobile para o programa Oracle Next Education!
+Projeto realizado em curso prático de Layouts Responsivos: trabalhando com layouts mobile para o programa Oracle Next Education!
 
 ![](https://guiadeti.com.br/wp-content/uploads/2022/06/guia-cursos-one.png)
 
